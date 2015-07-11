@@ -25,9 +25,7 @@ cd ~/Downloads/pure-aptRGB/
 
 **Quick Search**
 ``./search-pa.sh``
-* `search-pa.sh` is a quick way to search for packages and review the results that is a but easier on the eye. This is especally true on fresh VMS with low desplay resolutions.
-
-**It works in the following manner:**
+* `search-pa.sh` is a quick way to search for packages and review the results that is a but easier on the eye. This is especally true on fresh VMS with low desplay resolutions.  It works in the following manner:
 
 1. The search string is highlit in the *aptitude* results.
 2. The results are saved to a file called ``search-pa.log``.
