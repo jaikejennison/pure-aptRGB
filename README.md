@@ -9,6 +9,7 @@ Pure-Apt is a series of shell scripts that automates the more common *apt-get* a
 
 ### Usage
 **Run the Toolkit**
+
 1. Download the project as a zip into your Downloads folder.
 2. Unzip the project.
 3. Open a terminal and paste the folowing:
@@ -27,6 +28,7 @@ cd ~/Downloads/pure-aptRGB/
 * `search-pa.sh` is a quick way to search for packages and review the results that is a but easier on the eye. This is especally true on fresh VMS with low desplay resolutions.
 
 **It works in the following manner:**
+
 1. The search string is highlit in the *aptitude* results.
 2. The results are saved to a file called ``search-pa.log``.
 3. If the ``search-pa.log`` file already exists, it is first backed up to a file called ``last_search-pa.log`` before it is replaced.  This is useful with tools like diff.
