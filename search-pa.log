@@ -1,0 +1,170 @@
+p   4di[01;31m[Kgit[m[Ks                         - guess-the-number game, aka Bulls and Cows 
+p   4di[01;31m[Kgit[m[Ks:i386                    - guess-the-number game, aka Bulls and Cows 
+p   bzr-[01;31m[Kgit[m[K                         - Bazaar plugin providing Git integration   
+p   d[01;31m[Kgit[m[K                            - [01;31m[Kgit[m[K interoperability with the Debian archi
+p   di[01;31m[Kgit[m[Kemp                        - read temperature sensors in a 1-Wire net  
+p   di[01;31m[Kgit[m[Kemp:i386                   - read temperature sensors in a 1-Wire net  
+p   di[01;31m[Kgit[m[Kools:i386                  - A set of tools to control ASUS Digimatrix 
+p   easy[01;31m[Kgit[m[K                         - [01;31m[Kgit[m[K for mere mortals                      
+p   eclipse-e[01;31m[Kgit[m[K                    - Eclipse Team provider for the Git version 
+p   eclipse-e[01;31m[Kgit[m[K-mylyn              - Mylyn integration for EGit                
+p   eclipse-mylyn-tasks-[01;31m[Kgit[m[Khub      - Mylyn GitHub Connector                    
+p   engauge-di[01;31m[Kgit[m[Kizer               - interactively extracts numbers from bitmap
+p   engauge-di[01;31m[Kgit[m[Kizer:i386          - interactively extracts numbers from bitmap
+p   engauge-di[01;31m[Kgit[m[Kizer-doc           - engauge-di[01;31m[Kgit[m[Kizer user manual and tutorial
+p   fle[01;31m[Kgit[m[Ka                         - Easy to use scanning interface for GNOME  
+p   fle[01;31m[Kgit[m[Ka:i386                    - Easy to use scanning interface for GNOME  
+p   fle[01;31m[Kgit[m[Ka-gimp                    - Scanner plugin for the GNU image manipulat
+p   gimp-fle[01;31m[Kgit[m[Ka                    - Scanner plugin for the GNU image manipulat
+p   gimp-fle[01;31m[Kgit[m[Ka:i386               - Scanner plugin for the GNU image manipulat
+p   [01;31m[Kgit[m[K                             - fast, scalable, distributed revision contr
+p   [01;31m[Kgit[m[K:i386                        - fast, scalable, distributed revision contr
+p   [01;31m[Kgit[m[K-all                         - fast, scalable, distributed revision contr
+v   [01;31m[Kgit[m[K-all:i386                    -                                           
+p   [01;31m[Kgit[m[K-annex                       - manage files with [01;31m[Kgit[m[K, without checking th
+p   [01;31m[Kgit[m[K-annex:i386                  - manage files with [01;31m[Kgit[m[K, without checking th
+p   [01;31m[Kgit[m[K-arch                        - fast, scalable, distributed revision contr
+v   [01;31m[Kgit[m[K-arch:i386                   -                                           
+p   [01;31m[Kgit[m[K-buildpackage                - Suite to help with Debian packages in Git 
+p   [01;31m[Kgit[m[K-bzr                         - fast, scalable, distributed revision contr
+v   [01;31m[Kgit[m[K-bzr:i386                    -                                           
+p   [01;31m[Kgit[m[K-bzr-ng                      - bi-directional [01;31m[Kgit[m[K to bzr bridge: never fe
+p   [01;31m[Kgit[m[K-cola                        - highly caffeinated [01;31m[Kgit[m[K GUI                
+v   [01;31m[Kgit[m[K-completion                  -                                           
+v   [01;31m[Kgit[m[K-completion:i386             -                                           
+p   [01;31m[Kgit[m[K-core                        - fast, scalable, distributed revision contr
+v   [01;31m[Kgit[m[K-core:i386                   -                                           
+p   [01;31m[Kgit[m[K-cvs                         - fast, scalable, distributed revision contr
+v   [01;31m[Kgit[m[K-cvs:i386                    -                                           
+p   [01;31m[Kgit[m[K-daemon-run                  - fast, scalable, distributed revision contr
+v   [01;31m[Kgit[m[K-daemon-run:i386             -                                           
+p   [01;31m[Kgit[m[K-daemon-sysvinit             - fast, scalable, distributed revision contr
+v   [01;31m[Kgit[m[K-daemon-sysvinit:i386        -                                           
+p   [01;31m[Kgit[m[K-doc                         - fast, scalable, distributed revision contr
+v   [01;31m[Kgit[m[K-doc:i386                    -                                           
+p   [01;31m[Kgit[m[K-dpm                         - [01;31m[Kgit[m[K Debian package manager                
+p   [01;31m[Kgit[m[K-el                          - fast, scalable, distributed revision contr
+v   [01;31m[Kgit[m[K-el:i386                     -                                           
+p   [01;31m[Kgit[m[K-email                       - fast, scalable, distributed revision contr
+v   [01;31m[Kgit[m[K-email:i386                  -                                           
+p   [01;31m[Kgit[m[K-extras                      - Extra commands for [01;31m[Kgit[m[K                    
+p   [01;31m[Kgit[m[K-flow                        - Git extension to provide a high-level bran
+p   [01;31m[Kgit[m[K-ftp                         - Git powered FTP client written as shell sc
+p   [01;31m[Kgit[m[K-gui                         - fast, scalable, distributed revision contr
+v   [01;31m[Kgit[m[K-gui:i386                    -                                           
+p   [01;31m[Kgit[m[K-man                         - fast, scalable, distributed revision contr
+v   [01;31m[Kgit[m[K-man:i386                    -                                           
+p   [01;31m[Kgit[m[K-mediawiki                   - fast, scalable, distributed revision contr
+v   [01;31m[Kgit[m[K-mediawiki:i386              -                                           
+p   [01;31m[Kgit[m[K-notifier                    - [01;31m[Kgit[m[K commit email notification script      
+v   [01;31m[Kgit[m[K-remote-bzr                  -                                           
+v   [01;31m[Kgit[m[K-remote-bzr:i386             -                                           
+p   [01;31m[Kgit[m[K-remote-gcrypt               - encrypted [01;31m[Kgit[m[K repositories                
+p   [01;31m[Kgit[m[K-repair                      - repair various forms of damage to [01;31m[Kgit[m[K repo
+p   [01;31m[Kgit[m[K-repair:i386                 - repair various forms of damage to [01;31m[Kgit[m[K repo
+p   [01;31m[Kgit[m[K-review                      - [01;31m[Kgit[m[K command for submitting branches to Ger
+p   [01;31m[Kgit[m[K-sh                          - a [01;31m[Kgit[m[K shell                               
+p   [01;31m[Kgit[m[K-stuff                       - additional Git utilities                  
+p   [01;31m[Kgit[m[K-svn                         - fast, scalable, distributed revision contr
+v   [01;31m[Kgit[m[K-svn:i386                    -                                           
+p   [01;31m[Kgit[m[K2cl                          - Simple tool to convert [01;31m[Kgit[m[K logs to GNU Cha
+p   [01;31m[Kgit[m[Kg                            - [01;31m[Kgit[m[K repository viewer                     
+p   [01;31m[Kgit[m[Kg:i386                       - [01;31m[Kgit[m[K repository viewer                     
+p   [01;31m[Kgit[m[Khub-backup                   - backs up data from GitHub                 
+p   [01;31m[Kgit[m[Khub-backup:i386              - backs up data from GitHub                 
+p   [01;31m[Kgit[m[Kit                           - Wiki engine backed by a [01;31m[Kgit[m[K or darcs files
+p   [01;31m[Kgit[m[Kit:i386                      - Wiki engine backed by a [01;31m[Kgit[m[K or darcs files
+p   [01;31m[Kgit[m[Kk                            - fast, scalable, distributed revision contr
+v   [01;31m[Kgit[m[Kk:i386                       -                                           
+p   [01;31m[Kgit[m[Kmagic                        - guide about Git version control system    
+p   [01;31m[Kgit[m[Kolite                        - SSH-based gatekeeper for [01;31m[Kgit[m[K repositories 
+p   [01;31m[Kgit[m[Kolite3                       - SSH-based gatekeeper for [01;31m[Kgit[m[K repositories 
+p   [01;31m[Kgit[m[Kpkg                          - tools for maintaining Debian packages with
+p   [01;31m[Kgit[m[Kso                           - simple frontend for reverse VNC connection
+p   [01;31m[Kgit[m[Kstats                        - statistics generator for [01;31m[Kgit[m[K repositories 
+p   [01;31m[Kgit[m[Kweb                          - fast, scalable, distributed revision contr
+v   [01;31m[Kgit[m[Kweb:i386                     -                                           
+p   gur[01;31m[Kgit[m[Kate-mail                  - E-mail processor and filter with configura
+p   j[01;31m[Kgit[m[K-cli                        - Java implementation of GIT version control
+p   ji[01;31m[Kgit[m[K                           - tools for working with jigdo files        
+p   ji[01;31m[Kgit[m[K:i386                      - tools for working with jigdo files        
+p   ldap-[01;31m[Kgit[m[K-backup                 - Back up LDAP database in an Git repository
+p   le[01;31m[Kgit[m[K                           - Git extension to assist in manipulating br
+p   libalgorithm-checkdi[01;31m[Kgit[m[Ks-perl   - Perl extension to generate and test check 
+p   libconfig-[01;31m[Kgit[m[Klike-perl          - Perl module for Git-compatible config file
+p   libdist-zilla-plugin-changelogf - Dist::Zilla plugin to build a Changes file
+p   libdist-zilla-plugin-config-[01;31m[Kgit[m[K - Dist::Zilla Git plugin configuration setti
+p   libdist-zilla-plugin-[01;31m[Kgit[m[K-perl   - Dist::Zilla plugins to update your [01;31m[Kgit[m[K rep
+p   libghc-[01;31m[Kgit[m[Khub-dev               - Haskell Github API                        
+p   libghc-[01;31m[Kgit[m[Khub-dev:i386          - Haskell Github API                        
+v   libghc-[01;31m[Kgit[m[Khub-dev-0.7.2-4b3c7   -                                           
+v   libghc-[01;31m[Kgit[m[Khub-dev-0.7.2-86f64:i -                                           
+p   libghc-[01;31m[Kgit[m[Khub-doc               - Haskell Github API; documentation         
+p   libghc-[01;31m[Kgit[m[Khub-prof              - Haskell Github API; profiling libraries   
+p   libghc-[01;31m[Kgit[m[Khub-prof:i386         - Haskell Github API; profiling libraries   
+v   libghc-[01;31m[Kgit[m[Khub-prof-0.7.2-4b3c7  -                                           
+v   libghc-[01;31m[Kgit[m[Khub-prof-0.7.2-86f64: -                                           
+p   libghc-[01;31m[Kgit[m[Kit-dev                - Wiki engine backed by a [01;31m[Kgit[m[K or darcs files
+p   libghc-[01;31m[Kgit[m[Kit-dev:i386           - Wiki engine backed by a [01;31m[Kgit[m[K or darcs files
+v   libghc-[01;31m[Kgit[m[Kit-dev-0.10.3.1-3c585 -                                           
+v   libghc-[01;31m[Kgit[m[Kit-dev-0.10.3.1-53e17 -                                           
+p   libghc-[01;31m[Kgit[m[Kit-doc                - Wiki engine backed by a [01;31m[Kgit[m[K or darcs files
+p   libghc-[01;31m[Kgit[m[Kit-prof               - Wiki engine backed by a [01;31m[Kgit[m[K or darcs files
+p   libghc-[01;31m[Kgit[m[Kit-prof:i386          - Wiki engine backed by a [01;31m[Kgit[m[K or darcs files
+v   libghc-[01;31m[Kgit[m[Kit-prof-0.10.3.1-3c58 -                                           
+v   libghc-[01;31m[Kgit[m[Kit-prof-0.10.3.1-53e1 -                                           
+p   libghc-[01;31m[Kgit[m[Klib-dev               - API library for working with Git repositor
+p   libghc-[01;31m[Kgit[m[Klib-dev:i386          - API library for working with Git repositor
+v   libghc-[01;31m[Kgit[m[Klib-dev-2.2.0.0-14538 -                                           
+v   libghc-[01;31m[Kgit[m[Klib-dev-2.2.0.0-33cd0 -                                           
+p   libghc-[01;31m[Kgit[m[Klib-doc               - API library for working with Git repositor
+p   libghc-[01;31m[Kgit[m[Klib-prof              - API library for working with Git repositor
+p   libghc-[01;31m[Kgit[m[Klib-prof:i386         - API library for working with Git repositor
+v   libghc-[01;31m[Kgit[m[Klib-prof-2.2.0.0-1453 -                                           
+v   libghc-[01;31m[Kgit[m[Klib-prof-2.2.0.0-33cd -                                           
+v   lib[01;31m[Kgit[m[K-pure-perl                -                                           
+p   lib[01;31m[Kgit[m[K-pureperl-perl            - Pure Perl interface to Git repositories   
+p   lib[01;31m[Kgit[m[K-repository-perl          - Perl interface to Git repositories        
+p   lib[01;31m[Kgit[m[K-repository-plugin-log-pe - Git::Repository plugin adding log items   
+p   lib[01;31m[Kgit[m[K-ruby                     - Transitional package for ruby-[01;31m[Kgit[m[K         
+p   lib[01;31m[Kgit[m[K-ruby1.8                  - Transitional package for ruby-[01;31m[Kgit[m[K         
+p   lib[01;31m[Kgit[m[K-wrapper-perl             - Perl module to wrap [01;31m[Kgit[m[K command-line inter
+p   lib[01;31m[Kgit[m[K2-0                       - low-level Git library                     
+p   lib[01;31m[Kgit[m[K2-0:i386                  - low-level Git library                     
+p   lib[01;31m[Kgit[m[K2-dbg                     - lib[01;31m[Kgit[m[K2 library and debugging symbols     
+p   lib[01;31m[Kgit[m[K2-dbg:i386                - lib[01;31m[Kgit[m[K2 library and debugging symbols     
+p   lib[01;31m[Kgit[m[K2-dev                     - low-level Git library (development files) 
+p   lib[01;31m[Kgit[m[K2-dev:i386                - low-level Git library (development files) 
+p   libgnuradio-di[01;31m[Kgit[m[Kal3.7.2.1      - gnuradio di[01;31m[Kgit[m[Kal communications functions 
+p   libgnuradio-di[01;31m[Kgit[m[Kal3.7.2.1:i386 - gnuradio di[01;31m[Kgit[m[Kal communications functions 
+p   libj[01;31m[Kgit[m[K-ant-java                - Java implementation of GIT version control
+p   libj[01;31m[Kgit[m[K-java                    - Java implementation of GIT version control
+p   libj[01;31m[Kgit[m[K-java-doc                - Java implementation of GIT version control
+p   libnet-[01;31m[Kgit[m[Khub-perl              - Perl interface for GitHub                 
+p   libpadre-plugin-[01;31m[Kgit[m[K-perl        - simple Git interface for Padre            
+p   lo[01;31m[Kgit[m[Kech-applet                 - Lo[01;31m[Kgit[m[Kech mouse tweaking utility           
+p   lo[01;31m[Kgit[m[Kech-applet:i386            - Lo[01;31m[Kgit[m[Kech mouse tweaking utility           
+p   ma[01;31m[Kgit[m[K                           - Emacs interface for Git                   
+p   mercurial-[01;31m[Kgit[m[K                   - Git plugin for Mercurial                  
+p   node-[01;31m[Kgit[m[Khub-url-from-[01;31m[Kgit[m[K        - Convert [01;31m[Kgit[m[Khub [01;31m[Kgit[m[K or gist url to an http 
+p   pocketsphinx-hmm-en-tidi[01;31m[Kgit[m[Ks    - lightweight speech recognition - TIDIGITS 
+p   pocketsphinx-hmm-tidi[01;31m[Kgit[m[Ks       - transitional dummy package                
+p   python-django-tag[01;31m[Kgit[m[K            - simple tagging for Django                 
+p   python-[01;31m[Kgit[m[K                      - Python library to interact with Git reposi
+p   python-[01;31m[Kgit[m[Kdb                    - pure-Python [01;31m[Kgit[m[K object database           
+p   python-[01;31m[Kgit[m[Kdb:i386               - pure-Python [01;31m[Kgit[m[K object database           
+p   python-setuptools-[01;31m[Kgit[m[K           - plugin for setuptools that enables [01;31m[Kgit[m[K int
+v   python2.7-[01;31m[Kgit[m[Kdb                 -                                           
+v   python2.7-[01;31m[Kgit[m[Kdb:i386            -                                           
+p   python3-setuptools-[01;31m[Kgit[m[K          - plugin for setuptools that enables [01;31m[Kgit[m[K int
+p   q[01;31m[Kgit[m[K                            - Qt application for viewing GIT trees      
+p   q[01;31m[Kgit[m[K:i386                       - Qt application for viewing GIT trees      
+p   ruby-[01;31m[Kgit[m[K                        - Ruby interface to the Git revision control
+p   st[01;31m[Kgit[m[K                           - manage stacks of patches in a [01;31m[Kgit[m[K reposito
+p   st[01;31m[Kgit[m[K-contrib                   - set of contributed script to help working 
+p   tic[01;31m[Kgit[m[K                          - ticketing system built on Git             
+p   tic[01;31m[Kgit[m[Kweb                       - web interface to tic[01;31m[Kgit[m[K                   
+p   top[01;31m[Kgit[m[K                          - a Git patch queue manager                 
+p   trac-[01;31m[Kgit[m[K                        - Git version control backend for Trac      
+p   unity-scope-[01;31m[Kgit[m[Khub              - GitHub scope for Unity                    
+v   unity-scope-[01;31m[Kgit[m[Khub:i386         -                                           
