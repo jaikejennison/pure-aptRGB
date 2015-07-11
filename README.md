@@ -1,6 +1,8 @@
 Pure-Apt RGB
 ============
-### A Package Manager Toolkit
+
+A Package Manager Toolkit
+-------------------------
 
 About
 -----
@@ -14,17 +16,20 @@ Usage
 - Download the project as a zip into your Downloads folder.
 - Unzip the project.
 - Open a terminal and paste the folowing:
-	cd ~/Downloads/pure-aptRGB/
-	./run.sh
-
+```
+cd ~/Downloads/pure-aptRGB/
+./run.sh
+```
 **Quick Install**
-	./install-pa.sh
-
+```
+./install-pa.sh
+```
 - The *install-pa.sh* is a quick way to install a package with minimal prompting.  *This is especally true if sudo su if invoked beforehand*
 
 **Quick Search**
-	./search-pa.sh
-
+```
+./search-pa.sh
+```
 - The *search-pa.sh* is a quick way to search for packages and review the results that is a but easier on the eye. This is especally true on fresh VMS with low desplay resolutions.
 
 **It works in the following manner:**
