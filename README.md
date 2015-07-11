@@ -24,7 +24,7 @@ cd ~/Downloads/pure-aptRGB/
 ```
 ./install-pa.sh
 ```
-The *install-pa.sh* is a quick way to install a package with minimal prompting.  *This is especally true if sudo su if invoked beforehand*
+The *install-pa.sh* is a quick way to install a package with minimal prompting.
 
 **Quick Search**
 
