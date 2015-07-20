@@ -9,16 +9,12 @@ QUIT="quit"
 if [ "$QUIT" = "$D" ]; then
 	exit
 	else
-	##
-	## SAVES THE LAST LOG FILE TO last_show-pa.log THUS REPLACING ANY EXISTING FILE WITH THAT NAME.
 	cp show-pa.log last_show-pa.log
-	#sudo aptitude search "$D" | egrep --color=always $\|$D | more
-	#sudo aptitude search "$D" | egrep --color=always $\|$D > search-pa.log
-	sudo aptitude show "$D" |egrep --color=always $\|'Automatically\ installed|Homepage|Description|Depends|Provides|Replaces|Recommends|Conflicts|Suggests|Uncompressed\ Size|Architecture|Maintainer|Section|Priority|Version|State|Package' > show-pa.log
+	sudo aptitude show "$D" |egrep --color=always $\|'Automatically\ installed|Multi-Arch|Breaks|Homepage|Description|PreDepends|Depends|Provides|Replaces|Recommends|Conflicts|Suggests|Uncompressed\ Size|Architecture|Maintainer|Section|Priority|Version|State|Package' > show-pa.log
 	more show-pa.log
 fi
-
 exit
 #--------------------------------------------------------------
 # Jaike Howard 9 NOVEMBER 2014
 # n_v83r <n_v83r.z@gmail.com>
+
