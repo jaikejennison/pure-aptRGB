@@ -1,10 +1,8 @@
 #! /bin/bash
 
-read D
-
 echo '';
 echo -e "\e[1;31m------------\e[0m"
-echo -e "\e[0;37m Search Tool: \e[0m"
+echo -e "\e[0;37m Info Tool: \e[0m"
 echo -e "\e[1;31m--------------------------------------------------------------\e[0m"
 read D
 QUIT="quit"
@@ -16,7 +14,7 @@ if [ "$QUIT" = "$D" ]; then
 	cp show-pa.log last_show-pa.log
 	#sudo aptitude search "$D" | egrep --color=always $\|$D | more
 	#sudo aptitude search "$D" | egrep --color=always $\|$D > search-pa.log
-	sudo aptitude show "$D" |egrep $\|'Homepage|Description|Depends|Provides|Replaces|COnflicts|Uncompressed\ Size|Architecture|Maintainer|Section|Priority|Version|State|Package' > show-pa.log
+	sudo aptitude show "$D" |egrep --color=always $\|'Automatically\ installed|Homepage|Description|Depends|Provides|Replaces|Recommends|Conflicts|Suggests|Uncompressed\ Size|Architecture|Maintainer|Section|Priority|Version|State|Package' > show-pa.log
 	more show-pa.log
 fi
 
