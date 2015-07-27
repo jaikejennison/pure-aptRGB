@@ -26,7 +26,6 @@ There are a veritie of option when interfacing with the tool kit.  These will be
 ```bash
 cd ~/Downloads/pure-aptRGB/
 ```
-+ Then paste the following text and press enter:
 ```bash
 ./run.sh
 ```
