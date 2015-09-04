@@ -1,0 +1,14 @@
+[01;31m[KPackage[m[K: nvidia-319-updates
+[01;31m[KState[m[K: not installed
+[01;31m[KVersion[m[K: 331.113-0ubuntu2
+[01;31m[KPriority[m[K: optional
+[01;31m[KSection[m[K: restricted/misc
+[01;31m[KMaintainer[m[K: Ubuntu Core Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+[01;31m[KArchitecture[m[K: amd64
+[01;31m[KUncompressed Size[m[K: 38.9 k
+[01;31m[KDepends[m[K: nvidia-331-updates
+[01;31m[KConflicts[m[K: nvidia-319-updates
+[01;31m[KDescription[m[K: Transitional package for nvidia-319-updates
+ This is a transitional package for nvidia-319-updates, and can be safely
+ removed after the installation is complete.
+

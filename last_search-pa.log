@@ -1,191 +1,24 @@
-i A [01;31m[Kfirefox[m[K                         - Safe and easy web browser from Mozilla    
-p   [01;31m[Kfirefox[m[K:i386                    - Safe and easy web browser from Mozilla    
-p   [01;31m[Kfirefox[m[K-dbg                     - Safe and easy web browser from Mozilla - d
-p   [01;31m[Kfirefox[m[K-dbg:i386                - Safe and easy web browser from Mozilla - d
-p   [01;31m[Kfirefox[m[K-dev                     - Safe and easy web browser from Mozilla - d
-p   [01;31m[Kfirefox[m[K-dev:i386                - Safe and easy web browser from Mozilla - d
-p   [01;31m[Kfirefox[m[K-globalmenu              - Safe and easy web browser from Mozilla (tr
-p   [01;31m[Kfirefox[m[K-globalmenu:i386         - Safe and easy web browser from Mozilla (tr
-v   [01;31m[Kfirefox[m[K-https-finder            -                                           
-p   [01;31m[Kfirefox[m[K-launchpad-plugin        - Launchpad [01;31m[Kfirefox[m[K integration             
-p   [01;31m[Kfirefox[m[K-locale-af               - Afrikaans language pack for Firefox       
-p   [01;31m[Kfirefox[m[K-locale-af:i386          - Afrikaans language pack for Firefox       
-p   [01;31m[Kfirefox[m[K-locale-an               - Aragonese language pack for Firefox       
-p   [01;31m[Kfirefox[m[K-locale-an:i386          - Aragonese language pack for Firefox       
-p   [01;31m[Kfirefox[m[K-locale-ar               - Arabic language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-ar:i386          - Arabic language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-as               - Assamese language pack for Firefox        
-p   [01;31m[Kfirefox[m[K-locale-as:i386          - Assamese language pack for Firefox        
-p   [01;31m[Kfirefox[m[K-locale-ast              - Asturian language pack for Firefox        
-p   [01;31m[Kfirefox[m[K-locale-ast:i386         - Asturian language pack for Firefox        
-p   [01;31m[Kfirefox[m[K-locale-az               - Azerbaijani language pack for Firefox     
-p   [01;31m[Kfirefox[m[K-locale-az:i386          - Azerbaijani language pack for Firefox     
-p   [01;31m[Kfirefox[m[K-locale-be               - Belarusian language pack for Firefox      
-p   [01;31m[Kfirefox[m[K-locale-be:i386          - Belarusian language pack for Firefox      
-p   [01;31m[Kfirefox[m[K-locale-bg               - Bulgarian language pack for Firefox       
-p   [01;31m[Kfirefox[m[K-locale-bg:i386          - Bulgarian language pack for Firefox       
-p   [01;31m[Kfirefox[m[K-locale-bn               - Bengali language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-bn:i386          - Bengali language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-br               - Breton language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-br:i386          - Breton language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-bs               - Bosnian language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-bs:i386          - Bosnian language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-ca               - Catalan; Valencian language pack for Firef
-p   [01;31m[Kfirefox[m[K-locale-ca:i386          - Catalan; Valencian language pack for Firef
-p   [01;31m[Kfirefox[m[K-locale-cs               - Czech language pack for Firefox           
-p   [01;31m[Kfirefox[m[K-locale-cs:i386          - Czech language pack for Firefox           
-p   [01;31m[Kfirefox[m[K-locale-csb              - Transitional package for unavailable langu
-p   [01;31m[Kfirefox[m[K-locale-csb:i386         - Transitional package for unavailable langu
-p   [01;31m[Kfirefox[m[K-locale-cy               - Welsh language pack for Firefox           
-p   [01;31m[Kfirefox[m[K-locale-cy:i386          - Welsh language pack for Firefox           
-p   [01;31m[Kfirefox[m[K-locale-da               - Danish language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-da:i386          - Danish language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-de               - German language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-de:i386          - German language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-el               - Greek language pack for Firefox           
-p   [01;31m[Kfirefox[m[K-locale-el:i386          - Greek language pack for Firefox           
-i   [01;31m[Kfirefox[m[K-locale-en               - English language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-en:i386          - English language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-eo               - Esperanto language pack for Firefox       
-p   [01;31m[Kfirefox[m[K-locale-eo:i386          - Esperanto language pack for Firefox       
-p   [01;31m[Kfirefox[m[K-locale-es               - Spanish; Castilian language pack for Firef
-p   [01;31m[Kfirefox[m[K-locale-es:i386          - Spanish; Castilian language pack for Firef
-p   [01;31m[Kfirefox[m[K-locale-et               - Estonian language pack for Firefox        
-p   [01;31m[Kfirefox[m[K-locale-et:i386          - Estonian language pack for Firefox        
-p   [01;31m[Kfirefox[m[K-locale-eu               - Basque language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-eu:i386          - Basque language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-fa               - Persian language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-fa:i386          - Persian language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-fi               - Finnish language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-fi:i386          - Finnish language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-fr               - French language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-fr:i386          - French language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-fy               - Western Frisian language pack for Firefox 
-p   [01;31m[Kfirefox[m[K-locale-fy:i386          - Western Frisian language pack for Firefox 
-p   [01;31m[Kfirefox[m[K-locale-ga               - Irish language pack for Firefox           
-p   [01;31m[Kfirefox[m[K-locale-ga:i386          - Irish language pack for Firefox           
-p   [01;31m[Kfirefox[m[K-locale-gd               - Gaelic; Scottish Gaelic language pack for 
-p   [01;31m[Kfirefox[m[K-locale-gd:i386          - Gaelic; Scottish Gaelic language pack for 
-p   [01;31m[Kfirefox[m[K-locale-gl               - Galician language pack for Firefox        
-p   [01;31m[Kfirefox[m[K-locale-gl:i386          - Galician language pack for Firefox        
-p   [01;31m[Kfirefox[m[K-locale-gu               - Gujarati language pack for Firefox        
-p   [01;31m[Kfirefox[m[K-locale-gu:i386          - Gujarati language pack for Firefox        
-p   [01;31m[Kfirefox[m[K-locale-he               - Hebrew language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-he:i386          - Hebrew language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-hi               - Hindi language pack for Firefox           
-p   [01;31m[Kfirefox[m[K-locale-hi:i386          - Hindi language pack for Firefox           
-p   [01;31m[Kfirefox[m[K-locale-hr               - Croatian language pack for Firefox        
-p   [01;31m[Kfirefox[m[K-locale-hr:i386          - Croatian language pack for Firefox        
-p   [01;31m[Kfirefox[m[K-locale-hsb              - Sorbian, Upper language pack for Firefox  
-p   [01;31m[Kfirefox[m[K-locale-hsb:i386         - Sorbian, Upper language pack for Firefox  
-p   [01;31m[Kfirefox[m[K-locale-hu               - Hungarian language pack for Firefox       
-p   [01;31m[Kfirefox[m[K-locale-hu:i386          - Hungarian language pack for Firefox       
-p   [01;31m[Kfirefox[m[K-locale-hy               - Armenian language pack for Firefox        
-p   [01;31m[Kfirefox[m[K-locale-hy:i386          - Armenian language pack for Firefox        
-p   [01;31m[Kfirefox[m[K-locale-id               - Indonesian language pack for Firefox      
-p   [01;31m[Kfirefox[m[K-locale-id:i386          - Indonesian language pack for Firefox      
-p   [01;31m[Kfirefox[m[K-locale-is               - Icelandic language pack for Firefox       
-p   [01;31m[Kfirefox[m[K-locale-is:i386          - Icelandic language pack for Firefox       
-p   [01;31m[Kfirefox[m[K-locale-it               - Italian language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-it:i386          - Italian language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-ja               - Japanese language pack for Firefox        
-p   [01;31m[Kfirefox[m[K-locale-ja:i386          - Japanese language pack for Firefox        
-p   [01;31m[Kfirefox[m[K-locale-ka               - Transitional package for unavailable langu
-p   [01;31m[Kfirefox[m[K-locale-ka:i386          - Transitional package for unavailable langu
-p   [01;31m[Kfirefox[m[K-locale-kk               - Kazakh language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-kk:i386          - Kazakh language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-km               - Central Khmer language pack for Firefox   
-p   [01;31m[Kfirefox[m[K-locale-km:i386          - Central Khmer language pack for Firefox   
-p   [01;31m[Kfirefox[m[K-locale-kn               - Kannada language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-kn:i386          - Kannada language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-ko               - Korean language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-ko:i386          - Korean language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-ku               - Transitional package for unavailable langu
-p   [01;31m[Kfirefox[m[K-locale-ku:i386          - Transitional package for unavailable langu
-p   [01;31m[Kfirefox[m[K-locale-lg               - Transitional package for unavailable langu
-p   [01;31m[Kfirefox[m[K-locale-lg:i386          - Transitional package for unavailable langu
-p   [01;31m[Kfirefox[m[K-locale-lt               - Lithuanian language pack for Firefox      
-p   [01;31m[Kfirefox[m[K-locale-lt:i386          - Lithuanian language pack for Firefox      
-p   [01;31m[Kfirefox[m[K-locale-lv               - Latvian language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-lv:i386          - Latvian language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-mai              - Maithili language pack for Firefox        
-p   [01;31m[Kfirefox[m[K-locale-mai:i386         - Maithili language pack for Firefox        
-p   [01;31m[Kfirefox[m[K-locale-mk               - Macedonian language pack for Firefox      
-p   [01;31m[Kfirefox[m[K-locale-mk:i386          - Macedonian language pack for Firefox      
-p   [01;31m[Kfirefox[m[K-locale-ml               - Malayalam language pack for Firefox       
-p   [01;31m[Kfirefox[m[K-locale-ml:i386          - Malayalam language pack for Firefox       
-p   [01;31m[Kfirefox[m[K-locale-mn               - Transitional package for unavailable langu
-p   [01;31m[Kfirefox[m[K-locale-mn:i386          - Transitional package for unavailable langu
-p   [01;31m[Kfirefox[m[K-locale-mr               - Marathi language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-mr:i386          - Marathi language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-ms               - Malay language pack for Firefox           
-p   [01;31m[Kfirefox[m[K-locale-ms:i386          - Malay language pack for Firefox           
-p   [01;31m[Kfirefox[m[K-locale-nb               - Bokmål, Norwegian; Norwegian Bokmål langua
-p   [01;31m[Kfirefox[m[K-locale-nb:i386          - Bokmål, Norwegian; Norwegian Bokmål langua
-p   [01;31m[Kfirefox[m[K-locale-nl               - Dutch; Flemish language pack for Firefox  
-p   [01;31m[Kfirefox[m[K-locale-nl:i386          - Dutch; Flemish language pack for Firefox  
-p   [01;31m[Kfirefox[m[K-locale-nn               - Norwegian Nynorsk; Nynorsk, Norwegian lang
-p   [01;31m[Kfirefox[m[K-locale-nn:i386          - Norwegian Nynorsk; Nynorsk, Norwegian lang
-p   [01;31m[Kfirefox[m[K-locale-nso              - Transitional package for unavailable langu
-p   [01;31m[Kfirefox[m[K-locale-nso:i386         - Transitional package for unavailable langu
-p   [01;31m[Kfirefox[m[K-locale-oc               - Transitional package for unavailable langu
-p   [01;31m[Kfirefox[m[K-locale-oc:i386          - Transitional package for unavailable langu
-p   [01;31m[Kfirefox[m[K-locale-or               - Oriya language pack for Firefox           
-p   [01;31m[Kfirefox[m[K-locale-or:i386          - Oriya language pack for Firefox           
-p   [01;31m[Kfirefox[m[K-locale-pa               - Panjabi; Punjabi language pack for Firefox
-p   [01;31m[Kfirefox[m[K-locale-pa:i386          - Panjabi; Punjabi language pack for Firefox
-p   [01;31m[Kfirefox[m[K-locale-pl               - Polish language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-pl:i386          - Polish language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-pt               - Portuguese language pack for Firefox      
-p   [01;31m[Kfirefox[m[K-locale-pt:i386          - Portuguese language pack for Firefox      
-p   [01;31m[Kfirefox[m[K-locale-ro               - Romanian language pack for Firefox        
-p   [01;31m[Kfirefox[m[K-locale-ro:i386          - Romanian language pack for Firefox        
-p   [01;31m[Kfirefox[m[K-locale-ru               - Russian language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-ru:i386          - Russian language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-si               - Sinhala; Sinhalese language pack for Firef
-p   [01;31m[Kfirefox[m[K-locale-si:i386          - Sinhala; Sinhalese language pack for Firef
-p   [01;31m[Kfirefox[m[K-locale-sk               - Slovak language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-sk:i386          - Slovak language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-sl               - Slovenian language pack for Firefox       
-p   [01;31m[Kfirefox[m[K-locale-sl:i386          - Slovenian language pack for Firefox       
-p   [01;31m[Kfirefox[m[K-locale-sq               - Albanian language pack for Firefox        
-p   [01;31m[Kfirefox[m[K-locale-sq:i386          - Albanian language pack for Firefox        
-p   [01;31m[Kfirefox[m[K-locale-sr               - Serbian language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-sr:i386          - Serbian language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-sv               - Swedish language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-sv:i386          - Swedish language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-sw               - Transitional package for unavailable langu
-p   [01;31m[Kfirefox[m[K-locale-sw:i386          - Transitional package for unavailable langu
-p   [01;31m[Kfirefox[m[K-locale-ta               - Tamil language pack for Firefox           
-p   [01;31m[Kfirefox[m[K-locale-ta:i386          - Tamil language pack for Firefox           
-p   [01;31m[Kfirefox[m[K-locale-te               - Telugu language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-te:i386          - Telugu language pack for Firefox          
-p   [01;31m[Kfirefox[m[K-locale-th               - Thai language pack for Firefox            
-p   [01;31m[Kfirefox[m[K-locale-th:i386          - Thai language pack for Firefox            
-p   [01;31m[Kfirefox[m[K-locale-tr               - Turkish language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-tr:i386          - Turkish language pack for Firefox         
-p   [01;31m[Kfirefox[m[K-locale-uk               - Ukrainian language pack for Firefox       
-p   [01;31m[Kfirefox[m[K-locale-uk:i386          - Ukrainian language pack for Firefox       
-p   [01;31m[Kfirefox[m[K-locale-uz               - Uzbek language pack for Firefox           
-p   [01;31m[Kfirefox[m[K-locale-uz:i386          - Uzbek language pack for Firefox           
-p   [01;31m[Kfirefox[m[K-locale-vi               - Vietnamese language pack for Firefox      
-p   [01;31m[Kfirefox[m[K-locale-vi:i386          - Vietnamese language pack for Firefox      
-p   [01;31m[Kfirefox[m[K-locale-xh               - Xhosa language pack for Firefox           
-p   [01;31m[Kfirefox[m[K-locale-xh:i386          - Xhosa language pack for Firefox           
-p   [01;31m[Kfirefox[m[K-locale-zh-hans          - Simplified Chinese language pack for Firef
-p   [01;31m[Kfirefox[m[K-locale-zh-hans:i386     - Simplified Chinese language pack for Firef
-p   [01;31m[Kfirefox[m[K-locale-zh-hant          - Traditional Chinese language pack for Fire
-p   [01;31m[Kfirefox[m[K-locale-zh-hant:i386     - Traditional Chinese language pack for Fire
-p   [01;31m[Kfirefox[m[K-locale-zu               - Transitional package for unavailable langu
-p   [01;31m[Kfirefox[m[K-locale-zu:i386          - Transitional package for unavailable langu
-p   [01;31m[Kfirefox[m[K-mozsymbols              - Safe and easy web browser from Mozilla - B
-p   [01;31m[Kfirefox[m[K-mozsymbols:i386         - Safe and easy web browser from Mozilla - B
-p   [01;31m[Kfirefox[m[K-testsuite               - Safe and easy web browser from Mozilla - t
-p   [01;31m[Kfirefox[m[K-testsuite:i386          - Safe and easy web browser from Mozilla - t
-v   [01;31m[Kfirefox[m[K-ubufox                  -                                           
-v   [01;31m[Kfirefox[m[K-unity                   -                                           
-v   [01;31m[Kfirefox[m[K-webaccounts             -                                           
-v   [01;31m[Kfirefox[m[K-webaccounts:i386        -                                           
-v   [01;31m[Kfirefox[m[K-y-u-no-validate         -                                           
-p   sugar-[01;31m[Kfirefox[m[K-activity          - Mozilla Firefox browser for the Sugar desk
-p   unity-scope-[01;31m[Kfirefox[m[Kbookmarks    - Firefox bookmarks scope for Unity         
+i A libjpeg-t[01;31m[Kurb[m[Ko-progs             - Programs for manipulating JPEG files      
+p   libjpeg-t[01;31m[Kurb[m[Ko-progs:i386        - Programs for manipulating JPEG files      
+p   libjpeg-t[01;31m[Kurb[m[Ko-test              - Program for benchmarking and testing libjp
+p   libjpeg-t[01;31m[Kurb[m[Ko-test:i386         - Program for benchmarking and testing libjp
+i   libjpeg-t[01;31m[Kurb[m[Ko8                  - IJG JPEG compliant runtime library.       
+i A libjpeg-t[01;31m[Kurb[m[Ko8:i386             - IJG JPEG compliant runtime library.       
+p   libjpeg-t[01;31m[Kurb[m[Ko8-dbg              - Debugging symbols for the libjpeg-t[01;31m[Kurb[m[Ko li
+p   libjpeg-t[01;31m[Kurb[m[Ko8-dbg:i386         - Debugging symbols for the libjpeg-t[01;31m[Kurb[m[Ko li
+i A libjpeg-t[01;31m[Kurb[m[Ko8-dev              - Development files for the IJG JPEG library
+p   libjpeg-t[01;31m[Kurb[m[Ko8-dev:i386         - Development files for the IJG JPEG library
+p   libt[01;31m[Kurb[m[Kojpeg                    - IJG JPEG compliant runtime library.       
+p   libt[01;31m[Kurb[m[Kojpeg:i386               - IJG JPEG compliant runtime library.       
+p   octave-n[01;31m[Kurb[m[Ks                    - non-uniform rational B-splines for Octave 
+p   octave-n[01;31m[Kurb[m[Ks:i386               - non-uniform rational B-splines for Octave 
+p   php-horde-t[01;31m[Kurb[m[Ka                 - A web based address book                  
+p   python-t[01;31m[Kurb[m[Kogears2              - Python web application framework          
+p   python-t[01;31m[Kurb[m[Kogears2-doc          - documentation for the T[01;31m[Kurb[m[KoGears2 web fram
+p   python-t[01;31m[Kurb[m[Kojson                - plugin to use JSON templates in Python tem
+p   python-t[01;31m[Kurb[m[Kokid                 - T[01;31m[Kurb[m[KoGears template plugin to use kid temp
+v   python2.7-t[01;31m[Kurb[m[Kojson             -                                           
+p   ruby-c[01;31m[Kurb[m[K                       - Ruby libcurl bindings                     
+p   ruby-c[01;31m[Kurb[m[K:i386                  - Ruby libcurl bindings                     
+p   ruby-t[01;31m[Kurb[m[Kolinks                 - following links in your Rails web applicat
+v   t[01;31m[Kurb[m[Ka                           -                                           

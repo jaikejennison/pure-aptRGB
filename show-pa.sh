@@ -10,7 +10,7 @@ if [ "$QUIT" = "$D" ]; then
 	exit
 	else
 	cp show-pa.log last_show-pa.log
-	sudo aptitude show "$D" |egrep --color=always $\|'Automatically\ installed|Multi-Arch|Breaks|Homepage|Description|PreDepends|Depends|Provides|Replaces|Recommends|Conflicts|Suggests|Uncompressed\ Size|Architecture|Maintainer|Section|Priority|Version|State|Package' > show-pa.log
+	sudo aptitude show "$D" |egrep --color=always $\|'New|Automatically\ installed|Multi-Arch|Breaks|Homepage|Description|PreDepends|Depends|Provides|Replaces|Recommends|Conflicts|Suggests|Uncompressed\ Size|Architecture|Maintainer|Section|Priority|Version|State|Package' > show-pa.log
 	more show-pa.log
 fi
 exit
