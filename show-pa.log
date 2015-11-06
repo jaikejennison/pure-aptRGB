@@ -1,22 +1,29 @@
-[01;31m[KPackage[m[K: usbrelay
-New: yes
+[01;31m[KPackage[m[K: salt-ssh
 [01;31m[KState[m[K: not installed
-[01;31m[KVersion[m[K: 0.1-1ubuntu1
-[01;31m[KPriority[m[K: optional
-[01;31m[KSection[m[K: universe/electronics
+[01;31m[KVersion[m[K: 2014.7.0+ds-2
+[01;31m[KPriority[m[K: extra
+[01;31m[KSection[m[K: universe/admin
 [01;31m[KMaintainer[m[K: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
-[01;31m[KArchitecture[m[K: amd64
-[01;31m[KUncompressed Size[m[K: 402 k
-[01;31m[KDepends[m[K: libc6 (>= 2.4), libhidapi-hidraw0 (>=
-         0.8.0~rc1+git20140201.3a66d4e+dfsg)
-[01;31m[KConflicts[m[K: usbrelay
-[01;31m[KDescription[m[K: USB HID relay driver
- a small utility to control USB HID based relays that can be used for home
- automation or other switching needs. The devices are available from several
- sources and are able to handle up to 10A 250VAC. 
+[01;31m[KArchitecture[m[K: all
+[01;31m[KUncompressed Size[m[K: 79.9 k
+[01;31m[KDepends[m[K: python:any, salt-common (= 2014.7.0+ds-2), python-msgpack
+[01;31m[KDescription[m[K: remote manager to administer servers via salt
+ salt is a powerful remote execution manager that can be used to administer
+ servers in a fast and efficient way. 
  
- An example application are USB controlable power switches. You may use such a
- switch to control the power supply of an external hard disk drive for backup
- purposes.
-[01;31m[KHomepage[m[K: https://github.com/darrylb123/usbrelay
+ It allows commands to be executed across large groups of servers. This means
+ systems can be easily managed, but data can also be easily gathered.  Quick
+ introspection into running systems becomes a reality. 
+ 
+ Remote execution is usually used to set up a certain state on a remote system.
+ Salt addresses this problem as well, the salt state system uses salt state
+ files to define the state a server needs to be in. 
+ 
+ Between the remote execution system, and state management Salt addresses the
+ backbone of cloud and data center management. 
+ 
+ This particular package provides the salt ssh controller. It is able to run
+ salt modules and states on remote hosts via ssh. No minion or other salt
+ specific software needs to be installed on the remote host.
+[01;31m[KHomepage[m[K: http://saltstack.org/
 

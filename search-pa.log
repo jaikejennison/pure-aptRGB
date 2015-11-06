@@ -1,133 +1,78 @@
-p   baycom[01;31m[Kusb[m[K                       - Drivers for the HB9JNX packet radio [01;31m[Kusb[m[K mo
-p   baycom[01;31m[Kusb[m[K:i386                  - Drivers for the HB9JNX packet radio [01;31m[Kusb[m[K mo
-i   cups-filters-ipp[01;31m[Kusb[m[Kxd           - ipp[01;31m[Kusb[m[Kxd - Daemon for IPP-over-USB printer
-p   cups-filters-ipp[01;31m[Kusb[m[Kxd:i386      - ipp[01;31m[Kusb[m[Kxd - Daemon for IPP-over-USB printer
-p   gir1.2-g[01;31m[Kusb[m[K-1.0                 - GObject introspection data for libg[01;31m[Kusb[m[K    
-p   gir1.2-g[01;31m[Kusb[m[K-1.0:i386            - GObject introspection data for libg[01;31m[Kusb[m[K    
-p   grml2[01;31m[Kusb[m[K                        - install Grml system / ISO to [01;31m[Kusb[m[K device   
-p   grml2[01;31m[Kusb[m[K:i386                   - install Grml system / ISO to [01;31m[Kusb[m[K device   
-p   ipp[01;31m[Kusb[m[Kxd                        - Daemon for IPP USB printer support        
-p   ipp[01;31m[Kusb[m[Kxd:i386                   - Daemon for IPP USB printer support        
-p   libasedrive-[01;31m[Kusb[m[K                 - PC/SC driver for the Athena ASEDrive IIIe 
-p   libasedrive-[01;31m[Kusb[m[K:i386            - PC/SC driver for the Athena ASEDrive IIIe 
-p   libdevice-[01;31m[Kusb[m[K-pcsensor-hidtempe - Perl module to interface to the HidTEMPer 
-p   libdevice-[01;31m[Kusb[m[K-pcsensor-hidtempe - Perl module to interface to the HidTEMPer 
-p   libdevice-[01;31m[Kusb[m[K-perl              - Perl module to access USB devices using li
-p   libdevice-[01;31m[Kusb[m[K-perl:i386         - Perl module to access USB devices using li
-p   libg[01;31m[Kusb[m[K-dev                     - GLib wrapper around lib[01;31m[Kusb[m[K1 - development 
-p   libg[01;31m[Kusb[m[K-dev:i386                - GLib wrapper around lib[01;31m[Kusb[m[K1 - development 
-p   libg[01;31m[Kusb[m[K-doc                     - GLib wrapper around lib[01;31m[Kusb[m[K1 - documentatio
-i   libg[01;31m[Kusb[m[K2                        - GLib wrapper around lib[01;31m[Kusb[m[K1               
-p   libg[01;31m[Kusb[m[K2:i386                   - GLib wrapper around lib[01;31m[Kusb[m[K1               
-p   libhidapi-lib[01;31m[Kusb[m[K0               - Multi-Platform library for communication w
-p   libhidapi-lib[01;31m[Kusb[m[K0:i386          - Multi-Platform library for communication w
-p   libhidapi-lib[01;31m[Kusb[m[K0-dbg           - Debugging symbols for libhidapi-lib[01;31m[Kusb[m[K0   
-p   libhidapi-lib[01;31m[Kusb[m[K0-dbg:i386      - Debugging symbols for libhidapi-lib[01;31m[Kusb[m[K0   
-p   libpam-[01;31m[Kusb[m[K                      - PAM module for authentication with removab
-p   libpam-[01;31m[Kusb[m[K:i386                 - PAM module for authentication with removab
-p   lib[01;31m[Kusb[m[K++-0.1-4c2                - userspace C++ USB programming library     
-p   lib[01;31m[Kusb[m[K++-0.1-4c2:i386           - userspace C++ USB programming library     
-p   lib[01;31m[Kusb[m[K++-dev                    - userspace C++ USB programming library deve
-p   lib[01;31m[Kusb[m[K++-dev:i386               - userspace C++ USB programming library deve
-i   lib[01;31m[Kusb[m[K-0.1-4                    - userspace USB programming library         
-p   lib[01;31m[Kusb[m[K-0.1-4:i386               - userspace USB programming library         
-i   lib[01;31m[Kusb[m[K-1.0-0                    - userspace USB programming library         
-i A lib[01;31m[Kusb[m[K-1.0-0:i386               - userspace USB programming library         
-p   lib[01;31m[Kusb[m[K-1.0-0-dbg                - userspace USB programming library developm
-p   lib[01;31m[Kusb[m[K-1.0-0-dbg:i386           - userspace USB programming library developm
-p   lib[01;31m[Kusb[m[K-1.0-0-dev                - userspace USB programming library developm
-p   lib[01;31m[Kusb[m[K-1.0-0-dev:i386           - userspace USB programming library developm
-p   lib[01;31m[Kusb[m[K-1.0-doc                  - documentation for userspace USB programmin
-p   lib[01;31m[Kusb[m[K-dev                      - userspace USB programming library developm
-p   lib[01;31m[Kusb[m[K-dev:i386                 - userspace USB programming library developm
-p   lib[01;31m[Kusb[m[K-java                     - Java wrapper for lib[01;31m[Kusb[m[K                   
-p   lib[01;31m[Kusb[m[K-java-dbg                 - debug information for lib[01;31m[Kusb[m[K java wrapper 
-p   lib[01;31m[Kusb[m[K-java-dbg:i386            - debug information for lib[01;31m[Kusb[m[K java wrapper 
-p   lib[01;31m[Kusb[m[K-java-doc                 - javadoc documentation for lib[01;31m[Kusb[m[K-java     
-p   lib[01;31m[Kusb[m[K-java-lib                 - C part of Java wrapper for lib[01;31m[Kusb[m[K         
-p   lib[01;31m[Kusb[m[K-java-lib:i386            - C part of Java wrapper for lib[01;31m[Kusb[m[K         
-p   lib[01;31m[Kusb[m[K-ocaml                    - OCaml bindings to lib[01;31m[Kusb[m[K-1.0 (runtime)    
-p   lib[01;31m[Kusb[m[K-ocaml:i386               - OCaml bindings to lib[01;31m[Kusb[m[K-1.0 (runtime)    
-v   lib[01;31m[Kusb[m[K-ocaml-b0xx1              -                                           
-v   lib[01;31m[Kusb[m[K-ocaml-cqn66:i386         -                                           
-p   lib[01;31m[Kusb[m[K-ocaml-dev                - OCaml bindings to lib[01;31m[Kusb[m[K-1.0              
-p   lib[01;31m[Kusb[m[K-ocaml-dev:i386           - OCaml bindings to lib[01;31m[Kusb[m[K-1.0              
-v   lib[01;31m[Kusb[m[K-ocaml-dev-b0xx1          -                                           
-v   lib[01;31m[Kusb[m[K-ocaml-dev-cqn66:i386     -                                           
-i   lib[01;31m[Kusb[m[Khid-common                - Common files for the USB HID devices FreeB
-p   lib[01;31m[Kusb[m[Kip-dev                    - USB device sharing system over IP network 
-p   lib[01;31m[Kusb[m[Kip-dev:i386               - USB device sharing system over IP network 
-p   lib[01;31m[Kusb[m[Kip0                       - USB device sharing system over IP network 
-p   lib[01;31m[Kusb[m[Kip0:i386                  - USB device sharing system over IP network 
-p   lib[01;31m[Kusb[m[Kmuxd-dev                  - USB multiplexor daemon for iPhone and iPod
-p   lib[01;31m[Kusb[m[Kmuxd-dev:i386             - USB multiplexor daemon for iPhone and iPod
-p   lib[01;31m[Kusb[m[Kmuxd-tools                - USB multiplexor daemon for iPhone and iPod
-p   lib[01;31m[Kusb[m[Kmuxd-tools:i386           - USB multiplexor daemon for iPhone and iPod
-i   lib[01;31m[Kusb[m[Kmuxd2                     - USB multiplexor daemon for iPhone and iPod
-p   lib[01;31m[Kusb[m[Kmuxd2:i386                - USB multiplexor daemon for iPhone and iPod
-p   lib[01;31m[Kusb[m[Kmuxd2-dbg                 - USB multiplexor daemon for iPhone and iPod
-p   lib[01;31m[Kusb[m[Kmuxd2-dbg:i386            - USB multiplexor daemon for iPhone and iPod
-p   lib[01;31m[Kusb[m[Kprog-dev                  - Development files for lib[01;31m[Kusb[m[Kprog          
-p   lib[01;31m[Kusb[m[Kprog-dev:i386             - Development files for lib[01;31m[Kusb[m[Kprog          
-p   lib[01;31m[Kusb[m[Kprog0                     - Library for programming the USBprog hardwa
-p   lib[01;31m[Kusb[m[Kprog0:i386                - Library for programming the USBprog hardwa
-p   lib[01;31m[Kusb[m[Kredirhost-dev             - implementing the [01;31m[Kusb[m[K-host (*) side of a us
-p   lib[01;31m[Kusb[m[Kredirhost-dev:i386        - implementing the [01;31m[Kusb[m[K-host (*) side of a us
-i A lib[01;31m[Kusb[m[Kredirhost1                - Implementing the [01;31m[Kusb[m[K-host (*) side of a us
-p   lib[01;31m[Kusb[m[Kredirhost1:i386           - Implementing the [01;31m[Kusb[m[K-host (*) side of a us
-p   lib[01;31m[Kusb[m[Kredirparser-dev           - Parser for the [01;31m[Kusb[m[Kredir protocol (developm
-p   lib[01;31m[Kusb[m[Kredirparser-dev:i386      - Parser for the [01;31m[Kusb[m[Kredir protocol (developm
-i A lib[01;31m[Kusb[m[Kredirparser1              - Parser for the [01;31m[Kusb[m[Kredir protocol (runtime)
-p   lib[01;31m[Kusb[m[Kredirparser1:i386         - Parser for the [01;31m[Kusb[m[Kredir protocol (runtime)
-p   lib[01;31m[Kusb[m[Ktc08-1                    - Hardware interface library for PicoTech US
-p   lib[01;31m[Kusb[m[Ktc08-1:i386               - Hardware interface library for PicoTech US
-p   lib[01;31m[Kusb[m[Ktc08-dev                  - Development files for PicoTech USB TC08   
-p   lib[01;31m[Kusb[m[Ktc08-dev:i386             - Development files for PicoTech USB TC08   
-p   lmicdi[01;31m[Kusb[m[K                       - Remote GDB socket over USB for Stellaris L
-p   lmicdi[01;31m[Kusb[m[K:i386                  - Remote GDB socket over USB for Stellaris L
-p   pam[01;31m[Kusb[m[K-common                   - helper tools for the pam-[01;31m[Kusb[m[K module       
-p   pam[01;31m[Kusb[m[K-common:i386              - helper tools for the pam-[01;31m[Kusb[m[K module       
-p   pam[01;31m[Kusb[m[K-tools                    - dummy transitional package for pam[01;31m[Kusb[m[K-comm
-p   prism2-[01;31m[Kusb[m[K-firmware-installer   - firmware files for the prism2_[01;31m[Kusb[m[K kernel d
-p   prism2-[01;31m[Kusb[m[K-firmware-installer:i - firmware files for the prism2_[01;31m[Kusb[m[K kernel d
-p   python-[01;31m[Kusb[m[K                      - USB interface for Python                  
-p   python-[01;31m[Kusb[m[K:i386                 - USB interface for Python                  
-p   python-[01;31m[Kusb[m[Ktc08                  - Python wrapper for lib[01;31m[Kusb[m[Ktc08             
-p   python-[01;31m[Kusb[m[Ktc08:i386             - Python wrapper for lib[01;31m[Kusb[m[Ktc08             
-v   python2.7-[01;31m[Kusb[m[Ktc08               -                                           
-v   python2.7-[01;31m[Kusb[m[Ktc08:i386          -                                           
-i A spice-client-glib-[01;31m[Kusb[m[K-acl-helpe - Spice client glib [01;31m[Kusb[m[K acl helper          
-p   spice-client-glib-[01;31m[Kusb[m[K-acl-helpe - Spice client glib [01;31m[Kusb[m[K acl helper          
-i   [01;31m[Kusb[m[K-creator-common              - create a startup disk using a CD or disc i
-p   [01;31m[Kusb[m[K-creator-common:i386         - create a startup disk using a CD or disc i
-i   [01;31m[Kusb[m[K-creator-gtk                 - create a startup disk using a CD or disc i
-p   [01;31m[Kusb[m[K-creator-gtk:i386            - create a startup disk using a CD or disc i
-p   [01;31m[Kusb[m[K-creator-kde                 - create a startup disk using a CD or disc i
-p   [01;31m[Kusb[m[K-creator-kde:i386            - create a startup disk using a CD or disc i
-i   [01;31m[Kusb[m[K-modeswitch                  - mode switching tool for controlling "flip 
-p   [01;31m[Kusb[m[K-modeswitch:i386             - mode switching tool for controlling "flip 
-i   [01;31m[Kusb[m[K-modeswitch-data             - mode switching data for [01;31m[Kusb[m[K-modeswitch    
-v   [01;31m[Kusb[m[K-modeswitch-data-packed      -                                           
-p   [01;31m[Kusb[m[Kip                           - USB device sharing system over IP network 
-p   [01;31m[Kusb[m[Kip:i386                      - USB device sharing system over IP network 
-p   [01;31m[Kusb[m[Kip-source                    - USB device sharing system over IP network 
-p   [01;31m[Kusb[m[Kmount                        - automatically mount and unmount USB mass s
-i   [01;31m[Kusb[m[Kmuxd                         - USB multiplexor daemon for iPhone and iPod
-p   [01;31m[Kusb[m[Kmuxd:i386                    - USB multiplexor daemon for iPhone and iPod
-p   [01;31m[Kusb[m[Kmuxd-dbg                     - USB multiplexor daemon for iPhone and iPod
-p   [01;31m[Kusb[m[Kmuxd-dbg:i386                - USB multiplexor daemon for iPhone and iPod
-p   [01;31m[Kusb[m[Kprog                         - Firmware programming tool for the USBprog 
-p   [01;31m[Kusb[m[Kprog:i386                    - Firmware programming tool for the USBprog 
-p   [01;31m[Kusb[m[Kprog-gui                     - GUI firmware programming tool for the USBp
-p   [01;31m[Kusb[m[Kprog-gui:i386                - GUI firmware programming tool for the USBp
-p   [01;31m[Kusb[m[Kredirserver                  - Simple USB host TCP server                
-p   [01;31m[Kusb[m[Kredirserver:i386             - Simple USB host TCP server                
-p   [01;31m[Kusb[m[Krelay                        - USB HID relay driver                      
-p   [01;31m[Kusb[m[Krelay:i386                   - USB HID relay driver                      
-i   [01;31m[Kusb[m[Kutils                        - Linux USB utilities                       
-p   [01;31m[Kusb[m[Kutils:i386                   - Linux USB utilities                       
-p   [01;31m[Kusb[m[Kview                         - USB device viewer                         
-p   [01;31m[Kusb[m[Kview:i386                    - USB device viewer                         
-p   v[01;31m[Kusb[m[K-analyzer                   - tool for visualizing logs of USB packets  
-i   xserver-xorg-video-sis[01;31m[Kusb[m[K       - X.Org X server -- SiS USB display driver  
-p   xserver-xorg-video-sis[01;31m[Kusb[m[K:i386  - X.Org X server -- SiS USB display driver  
+p   ca[01;31m[Krdp[m[Keek                        - Tool to read the contents of ISO7816 smart
+p   ca[01;31m[Krdp[m[Keek:i386                   - Tool to read the contents of ISO7816 smart
+p   ca[01;31m[Krdp[m[Keek-data                   - Tool to read the contents of ISO7816 smart
+p   foobilla[01;31m[Krdp[m[Klus                  - 3D OpenGL Billiard Game                   
+p   foobilla[01;31m[Krdp[m[Klus:i386             - 3D OpenGL Billiard Game                   
+p   foobilla[01;31m[Krdp[m[Klus-data             - 3D OpenGL Billiard Game -- data files     
+v   free[01;31m[Krdp[m[K                         -                                           
+v   free[01;31m[Krdp[m[K:i386                    -                                           
+i A free[01;31m[Krdp[m[K-x11                     - RDP client for Windows Terminal Services (
+p   free[01;31m[Krdp[m[K-x11:i386                - RDP client for Windows Terminal Services (
+p   free[01;31m[Krdp[m[K-x11-dbg                 - RDP client for Windows Terminal Services (
+p   free[01;31m[Krdp[m[K-x11-dbg:i386            - RDP client for Windows Terminal Services (
+p   gnome-[01;31m[Krdp[m[K                       - remote desktop client for GNOME           
+i   libfree[01;31m[Krdp[m[K-cache1.1             - Free Remote Desktop Protocol library (cach
+p   libfree[01;31m[Krdp[m[K-cache1.1:i386        - Free Remote Desktop Protocol library (cach
+i   libfree[01;31m[Krdp[m[K-client1.1            - Free Remote Desktop Protocol library (clie
+p   libfree[01;31m[Krdp[m[K-client1.1:i386       - Free Remote Desktop Protocol library (clie
+i   libfree[01;31m[Krdp[m[K-codec1.1             - Free Remote Desktop Protocol library (code
+p   libfree[01;31m[Krdp[m[K-codec1.1:i386        - Free Remote Desktop Protocol library (code
+i   libfree[01;31m[Krdp[m[K-common1.1.0          - Free Remote Desktop Protocol library (comm
+p   libfree[01;31m[Krdp[m[K-common1.1.0:i386     - Free Remote Desktop Protocol library (comm
+i   libfree[01;31m[Krdp[m[K-core1.1              - Free Remote Desktop Protocol library (core
+p   libfree[01;31m[Krdp[m[K-core1.1:i386         - Free Remote Desktop Protocol library (core
+i   libfree[01;31m[Krdp[m[K-crypto1.1            - Free Remote Desktop Protocol library (free
+p   libfree[01;31m[Krdp[m[K-crypto1.1:i386       - Free Remote Desktop Protocol library (free
+p   libfree[01;31m[Krdp[m[K-dbg                  - Free Remote Desktop Protocol library (debu
+p   libfree[01;31m[Krdp[m[K-dbg:i386             - Free Remote Desktop Protocol library (debu
+p   libfree[01;31m[Krdp[m[K-dev                  - Free Remote Desktop Protocol library (deve
+p   libfree[01;31m[Krdp[m[K-dev:i386             - Free Remote Desktop Protocol library (deve
+i   libfree[01;31m[Krdp[m[K-gdi1.1               - Free Remote Desktop Protocol library (GDI 
+p   libfree[01;31m[Krdp[m[K-gdi1.1:i386          - Free Remote Desktop Protocol library (GDI 
+i   libfree[01;31m[Krdp[m[K-locale1.1            - Free Remote Desktop Protocol library (loca
+p   libfree[01;31m[Krdp[m[K-locale1.1:i386       - Free Remote Desktop Protocol library (loca
+i   libfree[01;31m[Krdp[m[K-plugins-standard     - RDP client for Windows Terminal Services (
+p   libfree[01;31m[Krdp[m[K-plugins-standard:i38 - RDP client for Windows Terminal Services (
+p   libfree[01;31m[Krdp[m[K-plugins-standard-dbg - RDP client for Windows Terminal Services (
+p   libfree[01;31m[Krdp[m[K-plugins-standard-dbg - RDP client for Windows Terminal Services (
+i   libfree[01;31m[Krdp[m[K-primitives1.1        - Free Remote Desktop Protocol library (prim
+p   libfree[01;31m[Krdp[m[K-primitives1.1:i386   - Free Remote Desktop Protocol library (prim
+i A libfree[01;31m[Krdp[m[K-rail1.1              - Free Remote Desktop Protocol library (rail
+p   libfree[01;31m[Krdp[m[K-rail1.1:i386         - Free Remote Desktop Protocol library (rail
+i   libfree[01;31m[Krdp[m[K-utils1.1             - Free Remote Desktop Protocol library (free
+p   libfree[01;31m[Krdp[m[K-utils1.1:i386        - Free Remote Desktop Protocol library (free
+c   libfree[01;31m[Krdp[m[K1                     - RDP client for Windows Terminal Services (
+p   libguac-client-[01;31m[Krdp[m[K0             - RDP support plugin for Guacamole          
+p   libguac-client-[01;31m[Krdp[m[K0:i386        - RDP support plugin for Guacamole          
+p   libpam-free[01;31m[Krdp[m[K                  - PAM Module to auth against an RDP server u
+p   libpam-free[01;31m[Krdp[m[K:i386             - PAM Module to auth against an RDP server u
+p   libr[01;31m[Krdp[m[K-perl                    - time-series data storage and display syste
+p   libsmartca[01;31m[Krdp[m[Kp-dev              - smartca[01;31m[Krdp[m[Kp development files             
+p   libsmartca[01;31m[Krdp[m[Kp-dev:i386         - smartca[01;31m[Krdp[m[Kp development files             
+p   libsmartca[01;31m[Krdp[m[Kp1                 - C++ library for accessing Smart Cards     
+p   libsmartca[01;31m[Krdp[m[Kp1:i386            - C++ library for accessing Smart Cards     
+p   libsmartca[01;31m[Krdp[m[Kp1-dbg             - smartca[01;31m[Krdp[m[Kp debugging symbols             
+p   libsmartca[01;31m[Krdp[m[Kp1-dbg:i386        - smartca[01;31m[Krdp[m[Kp debugging symbols             
+p   libtext-reco[01;31m[Krdp[m[Karser-perl       - module to parse record-oriented data in a 
+p   libxfree[01;31m[Krdp[m[K-client-dbg          - RDP client for Windows Terminal Services (
+p   libxfree[01;31m[Krdp[m[K-client-dbg:i386     - RDP client for Windows Terminal Services (
+i A libxfree[01;31m[Krdp[m[K-client1.1           - Free Remote Desktop Protocol library (xfre
+p   libxfree[01;31m[Krdp[m[K-client1.1:i386      - Free Remote Desktop Protocol library (xfre
+p   python-wo[01;31m[Krdp[m[Kresslib             - Python module to connect to Wo[01;31m[Krdp[m[Kress blog
+i   remmina-plugin-[01;31m[Krdp[m[K              - RDP plugin for remmina remote desktop clie
+p   remmina-plugin-[01;31m[Krdp[m[K:i386         - RDP plugin for remmina remote desktop clie
+p   ruby-omniauth-wo[01;31m[Krdp[m[Kress         - Wo[01;31m[Krdp[m[Kress strategy for OmniAuth.          
+p   unity-webapps-wo[01;31m[Krdp[m[Kress         - Unity Webapp for wo[01;31m[Krdp[m[Kress                
+p   unity-webapps-wo[01;31m[Krdp[m[Kress-com     - Unity Webapp for wo[01;31m[Krdp[m[Kress-com            
+p   wo[01;31m[Krdp[m[Klay                        - anagram generator                         
+p   wo[01;31m[Krdp[m[Klay:i386                   - anagram generator                         
+p   wo[01;31m[Krdp[m[Kress                       - weblog manager                            
+p   wo[01;31m[Krdp[m[Kress-l10n                  - weblog manager - language files           
+p   wo[01;31m[Krdp[m[Kress-openid                - OpenID plugin for WordPress               
+p   wo[01;31m[Krdp[m[Kress-shibboleth            - Shibboleth plugin for WordPress           
+p   wo[01;31m[Krdp[m[Kress-theme-twentyfifteen   - weblog manager - twentytfifteen theme file
+p   wo[01;31m[Krdp[m[Kress-theme-twentyfourteen  - weblog manager - twentyfourteen theme file
+p   wo[01;31m[Krdp[m[Kress-theme-twentythirteen  - weblog manager - twentythirteen theme file
+p   wo[01;31m[Krdp[m[Kress-xrds-simple           - XRDS-Simple plugin for WordPress          
+p   x[01;31m[Krdp[m[K                            - Remote Desktop Protocol (RDP) server      
+p   x[01;31m[Krdp[m[K:i386                       - Remote Desktop Protocol (RDP) server      
