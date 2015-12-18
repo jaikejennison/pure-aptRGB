@@ -44,6 +44,5 @@ fi
 # this restarts the program if user enters invalid option!
 #--------------------------------------------------------------
 ./start.sh
-#--------------------------------------------------------------
-# | coffendium inc. | copyleft 2009
-# written by: Jaike Howard
+#-------------------------------------------------------------------------------
+# Written By: Jaike Howard copyleft 2009
