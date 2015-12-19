@@ -13,7 +13,7 @@ Pure-Apt is a series of shell scripts that automates the more common *apt-get* a
 + `apt-get`
 + *sudo* privileges
 
-## Running the Toolkit
+# Running the Toolkit
 ----
 ### Quick Start Guide
 1. Choose the option *Download the project as a zip file*
