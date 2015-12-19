@@ -45,7 +45,7 @@ cd ~/Downloads/pure-aptRGB
 Port | Address
 --------|--------
 **Email:** | jaikehoward@icloud.com
-**IRC:** | mhlovecraft.net
+**Email:** | n_v83r@mhlovecraft.net
+**IRC:** | irc://mhlovecraft.net
 **Web:** | https://mhlovecraft.net
 **Web:** | http://mhlovecraft.net
-**Alt Email:** | n_v83r@mhlovecraft.net
