@@ -90,8 +90,8 @@ echo '-----
 about:
 --------------------------------------------------------------
 - notes:
-      Thank You for  trying  pure-apt! 
-      For  additional  help, comments, 
+      Thank You for  trying  pure-apt!
+      For  additional  help, comments,
       or sugestions please contact me:
 
 - contact informtion:
@@ -104,6 +104,5 @@ press enter to continue:
 --------------------------------------------------------------';
 read MORRRRRR
 exit
-#--------------------------------------------------------------
-# | coffendium inc. | copyleft 2009
-# written by: Jaike Howard
+#-------------------------------------------------------------------------------
+# Written By: Jaike Howard copyleft 2009
