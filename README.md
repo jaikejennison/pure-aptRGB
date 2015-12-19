@@ -14,24 +14,16 @@ Pure-Apt is a series of shell scripts that automates the more common *apt-get* a
 + `apt-get`
 + *sudo* privileges
 
-# Usages
-There are a veritie of option when interfacing with the tool kit.  These will be discussed in this section.
-
-
 ## Quick Start Guide
 
-1. Choose the option *Download the project as a zip file* 
+1. Choose the option *Download the project as a zip file*
 + Unzip the project.
 + Open a terminal and paste the following text and press enter:
 ```bash
-cd ~/Downloads/pure-aptRGB/
-```
-```bash
+cd ~/Downloads/pure-aptRGB
 ./run.sh
 ```
-
 **Please Note:** The Quick Start Guide assumes your web browsers default downloads directory is configured to use the folder named `Downloads` under the User's `Home` directory.  This is typically the default location for most browsers.
-
 
 ## Running the Toolkit
 
@@ -39,9 +31,7 @@ cd ~/Downloads/pure-aptRGB/
 The `search-pa.sh` is a quick way to search for packages and review the results that is a but easier on the eye. This is especally true on fresh VMS with low display resolutions. It works by first taking the search string and highlighting it in the results.  Then the results are saved to a file called `search-pa.log`.  If the `search-pa.log` file already exists, it is first backed up to a file called `last_search-pa.log` before it is replaced.  This is useful with tools like diff.  The binary `More` is call automatically and you results are presented to you fomr the top.  This prevents the top resutls being cut off when the search results are bigger than the scroll back buffer.  Copy the following into the terminal execute Quick Search.
 
 ```bash
-cd ~/Downloads/pure-aptRGB/
-```
-```bash
+cd ~/Downloads/pure-aptRGB
 ./search-pa.sh
 ```
 
@@ -49,9 +39,7 @@ cd ~/Downloads/pure-aptRGB/
 The `install-pa.sh` is a quick way to install a package with minimal prompting.  It includes such switches as *-y* *--force-yes* *sudo* inorder to minimize prompting.  Copy the following into the terminal execute Quick Search.
 
 ```bash
-cd ~/Downloads/pure-aptRGB/
-```
-```bash
+cd ~/Downloads/pure-aptRGB
 ./install-pa.sh
 ```
 
@@ -65,4 +53,3 @@ Network | Address
 **Web:** | https://mhlovecraft.net
 **Web:** | http://mhlovecraft.net
 **Alt Email:** | n_v83r@mhlovecraft.net
-
