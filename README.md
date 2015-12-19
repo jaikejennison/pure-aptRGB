@@ -42,10 +42,9 @@ cd ~/Downloads/pure-aptRGB
 ```
 
 ## Contact Me
-Network | Address
+Port | Address
 --------|--------
 **Email:** | jaikehoward@icloud.com
--- | --
 **IRC:** | mhlovecraft.net
 **Web:** | https://mhlovecraft.net
 **Web:** | http://mhlovecraft.net
