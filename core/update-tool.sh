@@ -5,26 +5,22 @@ echo -e '\e[1;31m-----------\e[0m
 \e[0;37mUpdate Tool:\e[0m
 \e[1;31m--------------------------------------------------------------------------------\e[0m'
 sudo echo 'Authorized';
-
 echo -e '\e[1;31m--------------------------------------------------------------------------------\e[0m
 \e[0;37mupdating/upgrading [aptitude]:\e[0m
 \e[1;31m--------------------------------------------------------------------------------\e[0m';
 sudo aptitude -y update
-sudo aptitude -y safe-upgrade
-
+sudo aptitude -y upgrade
 echo -e '\e[1;31m--------------------------------------------------------------------------------\e[0m
 \e[0;37mupdating/upgrading [apt-get]:\e[0m
 \e[1;31m--------------------------------------------------------------------------------\e[0m';
 sudo apt-get -y update
 sudo apt-get -y upgrade
-sudo apt-get autoremove
 echo -e '\e[1;31m--------------------------------------------------------------------------------\e[0m
 \e[0;37mcleaning up [aptitude/apt-get]\e[0m:
 \e[1;31m--------------------------------------------------------------------------------\e[0m';
 sudo apt-get autoremove
 sudo aptitude autoclean
 sudo aptitude clean
-
 echo -e '\e[1;31m----\e[0m
 \e[0;37mdone:\e[0m
 \e[1;31m----
