@@ -1,0 +1,29 @@
+#! /bin/bash
+
+if [ -d $1 ]; then
+	echo '';
+	echo -e "\e[1;31m-----------\e[0m"
+	echo -e "\e[0;37mSearch Tool:\e[0m"
+	echo -e "\e[1;31m--------------------------------------------------------------------------------\e[0m"
+	read SEARCH_QUERY
+	QUIT="quit"
+	if [ "$QUIT" = "$SEARCH_QUERY" ]; then
+		exit
+	else
+		cp search-apt.log last_search-apt.log
+		sudo aptitude search "$SEARCH_QUERY" | egrep -i --color=always $\|"$SEARCH_QUERY" > search-apt.log
+		more search-apt.log
+		exit
+	fi
+else
+	echo -e "\e[1;31m---------\e[0m"
+	echo -e "\e[0;37mSearching:\e[0m"
+	echo -e "\e[1;31m--------------------------------------------------------------------------------\e[0m"
+	cp search-apt.log last_search-apt.log
+	sudo aptitude search "$1" | egrep -i --color=always $\|"$1" > search-apt.log
+	more search-apt.log
+	exit
+fi
+
+#-------------------------------------------------------------------------------
+# Written By: Jaike Howard copyleft 2009
