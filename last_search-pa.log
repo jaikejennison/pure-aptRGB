@@ -1,0 +1,8 @@
+p   libmono-[01;31m[Kwebbrowser[m[K2.0-cil       - Mono Web Browser library (for CLI 2.0)    
+i A libmono-[01;31m[Kwebbrowser[m[K4.0-cil       - Mono Web Browser library (for CLI 4.0)    
+i   [01;31m[Kwebbrowser[m[K-app                  - Ubuntu web browser                        
+p   [01;31m[Kwebbrowser[m[K-app:i386             - Ubuntu web browser                        
+v   [01;31m[Kwebbrowser[m[K-app-assets           -                                           
+v   [01;31m[Kwebbrowser[m[K-app-assets:i386      -                                           
+p   [01;31m[Kwebbrowser[m[K-app-autopilot        - Ubuntu web browser autopilot tests        
+v   [01;31m[Kwebbrowser[m[K-app-autopilot:i386   -                                           

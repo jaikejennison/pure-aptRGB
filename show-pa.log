@@ -1,0 +1,15 @@
+[01;31m[KPackage[m[K: gambas3-gb-opengl-glsl
+[01;31m[KState[m[K: not installed
+[01;31m[KVersion[m[K: 3.5.4-2ubuntu5
+[01;31m[KPriority[m[K: optional
+[01;31m[KSection[m[K: universe/libdevel
+[01;31m[KMaintainer[m[K: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+[01;31m[KArchitecture[m[K: amd64
+[01;31m[KUncompressed Size[m[K: 46.1 k
+[01;31m[KDepends[m[K: libc6 (>= 2.4), libglew1.10 (>= 1.10.0), gambas3-gb-opengl (>=
+         3.5.4-2ubuntu5)
+[01;31m[KConflicts[m[K: gambas3-gb-opengl-glsl
+[01;31m[KDescription[m[K: Gambas OpenGL component: GL Shading Language subcomponent
+ 
+[01;31m[KHomepage[m[K: http://gambas.sourceforge.net
+

@@ -1,0 +1,87 @@
+p   [01;31m[Kbrowser[m[K-history                 - User daemon that tracks URLs looked at and
+p   [01;31m[Kbrowser[m[K-history:i386            - User daemon that tracks URLs looked at and
+p   [01;31m[Kbrowser[m[K-plugin-freshplayer-libp - PPAPI-host NPAPI-plugin adapter for libpdf
+p   [01;31m[Kbrowser[m[K-plugin-freshplayer-libp - PPAPI-host NPAPI-plugin adapter for libpdf
+p   [01;31m[Kbrowser[m[K-plugin-freshplayer-nacl - PPAPI-host NPAPI-plugin adapter for Native
+p   [01;31m[Kbrowser[m[K-plugin-freshplayer-nacl - PPAPI-host NPAPI-plugin adapter for Native
+p   [01;31m[Kbrowser[m[K-plugin-freshplayer-pepp - PPAPI-host NPAPI-plugin adapter for pepper
+p   [01;31m[Kbrowser[m[K-plugin-freshplayer-pepp - PPAPI-host NPAPI-plugin adapter for pepper
+i   [01;31m[Kbrowser[m[K-plugin-gnash            - GNU Shockwave Flash (SWF) player - Plugin 
+p   [01;31m[Kbrowser[m[K-plugin-gnash:i386       - GNU Shockwave Flash (SWF) player - Plugin 
+p   [01;31m[Kbrowser[m[K-plugin-lightspark       - High-performance SWF player - Mozilla Plug
+p   [01;31m[Kbrowser[m[K-plugin-lightspark:i386  - High-performance SWF player - Mozilla Plug
+p   [01;31m[Kbrowser[m[K-plugin-packagekit       - Plugin to install missing plugins using Pa
+p   [01;31m[Kbrowser[m[K-plugin-packagekit:i386  - Plugin to install missing plugins using Pa
+p   [01;31m[Kbrowser[m[K-plugin-spice            - XPI client for interacting with SPICE serv
+p   [01;31m[Kbrowser[m[K-plugin-spice:i386       - XPI client for interacting with SPICE serv
+pi  [01;31m[Kbrowser[m[K-plugin-vlc              - multimedia plugin for web [01;31m[Kbrowser[m[Ks based o
+p   [01;31m[Kbrowser[m[K-plugin-vlc:i386         - multimedia plugin for web [01;31m[Kbrowser[m[Ks based o
+i   chromium-[01;31m[Kbrowser[m[K                - Chromium web [01;31m[Kbrowser[m[K, open-source version 
+p   chromium-[01;31m[Kbrowser[m[K:i386           - Chromium web [01;31m[Kbrowser[m[K, open-source version 
+p   chromium-[01;31m[Kbrowser[m[K-dbg            - chromium-[01;31m[Kbrowser[m[K debug symbols            
+p   chromium-[01;31m[Kbrowser[m[K-dbg:i386       - chromium-[01;31m[Kbrowser[m[K debug symbols            
+v   chromium-[01;31m[Kbrowser[m[K-inspector      -                                           
+v   chromium-[01;31m[Kbrowser[m[K-inspector:i386 -                                           
+i A chromium-[01;31m[Kbrowser[m[K-l10n           - chromium-[01;31m[Kbrowser[m[K language packages        
+p   edf[01;31m[Kbrowser[m[K                      - viewer for biosignal storage files such as
+p   edf[01;31m[Kbrowser[m[K:i386                 - viewer for biosignal storage files such as
+p   epiphany-[01;31m[Kbrowser[m[K                - Intuitive GNOME web [01;31m[Kbrowser[m[K               
+p   epiphany-[01;31m[Kbrowser[m[K:i386           - Intuitive GNOME web [01;31m[Kbrowser[m[K               
+p   epiphany-[01;31m[Kbrowser[m[K-data           - Data files for the GNOME web [01;31m[Kbrowser[m[K      
+p   epiphany-[01;31m[Kbrowser[m[K-dbg            - Debugging symbols for the GNOME web browse
+p   epiphany-[01;31m[Kbrowser[m[K-dbg:i386       - Debugging symbols for the GNOME web browse
+p   freemind-[01;31m[Kbrowser[m[K                - Java Applet for publishing Mindmaps produc
+p   geany-plugin-tree[01;31m[Kbrowser[m[K        - tree [01;31m[Kbrowser[m[K plugin for Geany             
+p   geany-plugin-tree[01;31m[Kbrowser[m[K:i386   - tree [01;31m[Kbrowser[m[K plugin for Geany             
+pi  gedit-source-code-[01;31m[Kbrowser[m[K-plugi - source code class and function [01;31m[Kbrowser[m[K plu
+i   gmusic[01;31m[Kbrowser[m[K                   - graphical jukebox for large music collecti
+v   gnome-www-[01;31m[Kbrowser[m[K               -                                           
+v   gnome-www-[01;31m[Kbrowser[m[K:i386          -                                           
+p   gnu-smalltalk-[01;31m[Kbrowser[m[K           - GNU Smalltalk [01;31m[Kbrowser[m[K                     
+p   gnu-smalltalk-[01;31m[Kbrowser[m[K:i386      - GNU Smalltalk [01;31m[Kbrowser[m[K                     
+v   info-[01;31m[Kbrowser[m[K                    -                                           
+v   info-[01;31m[Kbrowser[m[K:i386               -                                           
+p   lib[01;31m[Kbrowser[m[K-open-perl            - Perl module to open a [01;31m[Kbrowser[m[K in a given U
+p   libhttp-[01;31m[Kbrowser[m[Kdetect-perl      - module to extract system data from an HTTP
+p   libmono-web[01;31m[Kbrowser[m[K2.0-cil       - Mono Web Browser library (for CLI 2.0)    
+i A libmono-web[01;31m[Kbrowser[m[K4.0-cil       - Mono Web Browser library (for CLI 4.0)    
+p   libwww[01;31m[Kbrowser[m[K-perl              - Platform independent means to start a WWW 
+v   man-[01;31m[Kbrowser[m[K                     -                                           
+v   man-[01;31m[Kbrowser[m[K:i386                -                                           
+p   monodoc-[01;31m[Kbrowser[m[K                 - MonoDoc GTK+ based viewer                 
+p   myth[01;31m[Kbrowser[m[K                     - A web [01;31m[Kbrowser[m[K for MythTV                  
+p   myth[01;31m[Kbrowser[m[K:i386                - A web [01;31m[Kbrowser[m[K for MythTV                  
+p   node-[01;31m[Kbrowser[m[Kify-lite            - bundle client-side JavaScript using Node.j
+p   php-horde-[01;31m[Kbrowser[m[K               - Horde Browser API                         
+p   php-symfony-[01;31m[Kbrowser[m[K-kit         - simulate the behavior of a web [01;31m[Kbrowser[m[K    
+p   pod[01;31m[Kbrowser[m[K                      - Documentation [01;31m[Kbrowser[m[K for Perl            
+p   pop3[01;31m[Kbrowser[m[K                     - Allows one to check a pop3 mailbox before 
+p   pycode-[01;31m[Kbrowser[m[K                  - environment to teach with Python code snip
+p   pypi[01;31m[Kbrowser[m[K                     - graphical interface for browsing the Pytho
+p   python-fs-[01;31m[Kbrowser[m[K               - Python filesystem abstraction - Gtk browse
+p   python-zope.[01;31m[Kbrowser[m[K             - Shared Zope Toolkit [01;31m[Kbrowser[m[K components    
+p   python-zope.[01;31m[Kbrowser[m[Kmenu         - Browser menu implementation for Zope      
+p   python-zope.[01;31m[Kbrowser[m[Kpage         - ZCML directives for configuring [01;31m[Kbrowser[m[K vi
+p   python-zope.[01;31m[Kbrowser[m[Kresource     - Browser resources implementation for Zope 
+v   python-zope.[01;31m[Kbrowser[m[Kresource-zcm -                                           
+p   python-zope.test[01;31m[Kbrowser[m[K         - Programmable [01;31m[Kbrowser[m[K for functional black-
+v   python-zope.test[01;31m[Kbrowser[m[K-wsgi    -                                           
+p   python3-zope.[01;31m[Kbrowser[m[K            - Shared Zope Toolkit [01;31m[Kbrowser[m[K components    
+i   qtdeclarative5-ubuntu-ui-extras - Ubuntu web QML plugin                     
+p   qtdeclarative5-ubuntu-ui-extras - Ubuntu web QML plugin                     
+p   remuco-gmusic[01;31m[Kbrowser[m[K            - duplex remote control for media players - 
+p   rhythmbox-radio-[01;31m[Kbrowser[m[K         - Internet radio [01;31m[Kbrowser[m[K plugin for rhythmbo
+p   ruby-[01;31m[Kbrowser[m[K                    - [01;31m[Kbrowser[m[K detection for Ruby                
+p   sqlite[01;31m[Kbrowser[m[K                   - GUI editor for SQLite databases           
+p   sqlite[01;31m[Kbrowser[m[K:i386              - GUI editor for SQLite databases           
+i   tor[01;31m[Kbrowser[m[K-launcher             - helps download, update and run the Tor Bro
+p   tor[01;31m[Kbrowser[m[K-launcher:i386        - helps download, update and run the Tor Bro
+i   unity-scope-gmusic[01;31m[Kbrowser[m[K       - gmusic[01;31m[Kbrowser[m[K scope for Unity             
+i   web[01;31m[Kbrowser[m[K-app                  - Ubuntu web [01;31m[Kbrowser[m[K                        
+p   web[01;31m[Kbrowser[m[K-app:i386             - Ubuntu web [01;31m[Kbrowser[m[K                        
+v   web[01;31m[Kbrowser[m[K-app-assets           -                                           
+v   web[01;31m[Kbrowser[m[K-app-assets:i386      -                                           
+p   web[01;31m[Kbrowser[m[K-app-autopilot        - Ubuntu web [01;31m[Kbrowser[m[K autopilot tests        
+v   web[01;31m[Kbrowser[m[K-app-autopilot:i386   -                                           
+v   www-[01;31m[Kbrowser[m[K                     -                                           
+v   www-[01;31m[Kbrowser[m[K:i386                -                                           
