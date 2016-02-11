@@ -21,6 +21,7 @@ Pure-Apt is a series of shell scripts that automates the more common *apt-get* a
 cd ~/Downloads/pure-aptRGB
 ./run.sh
 ```
+
 **Please Note:** The Quick Start Guide assumes your web browsers default downloads directory is configured to use the folder named `Downloads` under the User's `Home` directory.  This is typically the default location for most browsers.
 
 ### Quick Search:
