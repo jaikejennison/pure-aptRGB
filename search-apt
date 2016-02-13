@@ -1,6 +1,6 @@
 #! /bin/bash
 
-START_TIME=`date +"%m.%d.%y-%H.%M.%S"`
+START_TIME=`date +"%m-%d-%y_%H%M%S"`
 QUIT="quit"
 
 if [ -d $1 ]; then
@@ -12,17 +12,17 @@ if [ -d $1 ]; then
 	if [ "$QUIT" = "$SEARCH_QUERY" ]; then
 		exit
 	else
-		sudo aptitude search "$SEARCH_QUERY" | egrep -i --color=always $\|"$SEARCH_QUERY" > "core/logs/search-apt.log"
-		cp "core/logs/search-apt.log" "core/logs/search-apt-$START_TIME.log"
+		sudo aptitude search "$SEARCH_QUERY" | egrep --color=always $\|"$SEARCH_QUERY" > "core/logs/search-apt.log"
+		cp "core/logs/search-apt.log" "core/logs/search-$SEARCH_QUERY-$START_TIME.log"
 		more "core/logs/search-apt.log"
 		exit
 	fi
 else
-	echo -e "\e[1;31m---------\e[0m"
-	echo -e "\e[0;37mSearching:\e[0m"
+	echo -e "\e[1;31m-------------------------\e[0m"
+	echo -e "\e[0;37mSearching for $1:\e[0m"
 	echo -e "\e[1;31m--------------------------------------------------------------------------------\e[0m"
-	sudo aptitude search "$1" | egrep -i --color=always $\|"$1" > "core/logs/search-apt.log"
-	cp "core/logs/search-apt.log" "core/logs/search-apt-$START_TIME.log"
+	sudo aptitude search "$1" | egrep --color=always $\|"$1" > "core/logs/search-apt.log"
+	cp "core/logs/search-apt.log" "core/logs/search-$1-$START_TIME.log"
 	more "core/logs/search-apt.log"
 	exit
 fi
