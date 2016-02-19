@@ -5,7 +5,9 @@ QUIT="quit"
 
 
 # Check for logs Directory
-if [ -d != "core/logs" ]; then
+if [ -d "core/logs" ]; then
+	echo
+else
 	mkdir core/logs
 fi
 
