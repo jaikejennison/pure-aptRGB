@@ -3,6 +3,13 @@
 START_TIME=`date +"%m-%d-%y_%H%M%S"`
 QUIT="quit"
 
+
+# Check for logs Directory
+if [ -d != "core/logs" ]; then
+	mkdir core/logs
+fi
+
+
 if [ -d $1 ]; then
 	echo '';
 	echo -e "\e[1;31m---------\e[0m"
