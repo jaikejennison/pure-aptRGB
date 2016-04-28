@@ -21,7 +21,7 @@ if [ -d $1 ]; then
 	if [ "$QUIT" = "$SEARCH_QUERY" ]; then
 		exit
 	else
-		sudo aptitude show "$SEARCH_QUERY" | egrep --color=always $\|'New|Automatically\ installed|Multi-Arch|Breaks|Homepage|Description|PreDepends|Depends|Provides|Replaces|Recommends|Conflicts|Suggests|Uncompressed\ Size|Architecture|Maintainer|Section|Priority|Version|State|Package|Provided\ by' > "core/logs/info-apt.log"
+		sudo aptitude show "$SEARCH_QUERY" | egrep --color=always $\|'New|Automatically\ installed|Multi-Arch|Breaks|Homepage|Description|PreDepends|Depends|Enhances|Provides|Replaces|Recommends|Conflicts|Suggests|Uncompressed\ Size|Architecture|Maintainer|Section|Priority|Version|State|Package|Provided\ by' > "core/logs/info-apt.log"
 		cp "core/logs/info-apt.log" "core/logs/info-$SEARCH_QUERY-$START_TIME.log"
 		more "core/logs/info-apt.log"
 		exit
@@ -30,7 +30,7 @@ else
 	echo -e "\e[1;31m----------------\e[0m"
 	echo -e "\e[0;37m$1 Info:\e[0m"
 	echo -e "\e[1;31m--------------------------------------------------------------------------------\e[0m"
-	sudo aptitude show "$1" | egrep --color=always $\|'New|Automatically\ installed|Multi-Arch|Breaks|Homepage|Description|PreDepends|Depends|Provides|Replaces|Recommends|Conflicts|Suggests|Uncompressed\ Size|Architecture|Maintainer|Section|Priority|Version|State|Package|Provided\ by' > "core/logs/info-apt.log"
+	sudo aptitude show "$1" | egrep --color=always $\|'New|Automatically\ installed|Multi-Arch|Breaks|Homepage|Description|PreDepends|Depends|Provides|Replaces|Recommends|Enhances|Conflicts|Suggests|Uncompressed\ Size|Architecture|Maintainer|Section|Priority|Version|State|Package|Provided\ by' > "core/logs/info-apt.log"
 	cp "core/logs/info-apt.log" "core/logs/info-$1-$START_TIME.log"
 	more "core/logs/info-apt.log"
 	exit
