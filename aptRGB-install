@@ -1,0 +1,26 @@
+#! /bin/bash
+
+if [ -d $1 ]; then
+	echo '';
+	echo -e "\e[1;31m------------\e[0m"
+	echo -e "\e[0;37mInstall Tool:\e[0m"
+	echo -e "\e[1;31m--------------------------------------------------------------\e[0m"
+	read INSTALL_QUERY
+	QUIT="quit"
+	if [ "$QUIT" = "$INSTALL_QUERY" ]; then
+		exit
+	else
+		sudo apt-get -y install "$INSTALL_QUERY"
+		exit
+	fi
+else
+	echo -e "\e[1;31m----------\e[0m"
+	echo -e "\e[0;37mInstalling:\e[0m"
+	echo -e "\e[1;31m--------------------------------------------------------------\e[0m"
+	sudo apt-get -y install $*
+	exit
+fi
+
+#---------------------------------------------------------------------------
+# Written By: Jaike Howard copyleft 2009
+

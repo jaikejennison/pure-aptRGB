@@ -1,0 +1,4 @@
+#! /bin/bash
+
+START_TIME=`date +"%m-%d-%y_%H%M%S"`
+QUIT="quit"
