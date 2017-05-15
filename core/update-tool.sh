@@ -14,9 +14,16 @@ echo -e "\e[0;37mupdating/upgrading [apt-get]:\e[0m"
 echo -e "\e[1;31m--------------------------------------------------------------------------------\e[0m"
 sudo apt-get -y update && sudo apt-get -y upgrade
 echo -e "\e[1;31m--------------------------------------------------------------------------------\e[0m"
+echo -e "\e[0;37mupdating/upgrading [apt]:\e[0m"
+echo -e "\e[1;31m--------------------------------------------------------------------------------\e[0m"
+sudo apt -y update
+apt list --upgradable
+sleep 3 && sudo apt -y upgrade
+echo -e "\e[1;31m--------------------------------------------------------------------------------\e[0m"
 echo -e "\e[0;37mcleaning up [aptitude/apt-get]\e[0m:"
 echo -e "\e[1;31m--------------------------------------------------------------------------------\e[0m"
 sudo apt-get autoremove && sudo aptitude autoclean && sudo aptitude clean
+sudo apt autoremove && apt clean
 echo -e "\e[1;31m----\e[0m"
 echo -e "\e[0;37mdone:\e[0m"
 echo -e "\e[1;31m----\e[0m"
