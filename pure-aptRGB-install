@@ -10,14 +10,14 @@ if [ -d $1 ]; then
 	if [ "$QUIT" = "$INSTALL_QUERY" ]; then
 		exit
 	else
-		sudo apt-get -y install "$INSTALL_QUERY"
+		sudo apt -y install "$INSTALL_QUERY"
 		exit
 	fi
 else
 	echo -e "\e[1;31m----------\e[0m"
 	echo -e "\e[0;37mInstalling:\e[0m"
 	echo -e "\e[1;31m--------------------------------------------------------------\e[0m"
-	sudo apt-get -y install $*
+	sudo apt -y install $*
 	exit
 fi
 
