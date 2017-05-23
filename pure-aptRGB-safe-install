@@ -1,5 +1,4 @@
 #! /bin/bash
-
 if [ -d $1 ]; then
 	echo '';
 	echo -e "\e[1;31m------------\e[0m"
@@ -10,17 +9,13 @@ if [ -d $1 ]; then
 	if [ "$QUIT" = "$INSTALL_QUERY" ]; then
 		exit
 	else
-		sudo apt-get install "$INSTALL_QUERY"
-		exit
+		sudo apt install "$INSTALL_QUERY"
 	fi
 else
 	echo -e "\e[1;31m----------\e[0m"
 	echo -e "\e[0;37mInstalling:\e[0m"
 	echo -e "\e[1;31m--------------------------------------------------------------\e[0m"
-	sudo apt-get install $*
-	exit
+	sudo apt install $*
 fi
-
 #---------------------------------------------------------------------------
 # Written By: Jaike Howard copyleft 2009
-
