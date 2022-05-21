@@ -1,7 +1,7 @@
 Pure-Apt RGB
 ============
 #### A Package Manager Toolkit
-**Please Note:** Someone stumbling upon this *Github Repository* should be aware that this is a tool I made for myself (thought it now has become more of a crutch than a tool).  It has also come in handy when setting up Ubuntu based VMs.  Please feel free to try it out, *but it's not going to knock your socks off or anything.*
+**Please Note:** Someone stumbling upon this *Github Repository* should be aware that this is a tool I made for myself (*however it now has become more of a crutch than a tool*).  It has also come in handy when setting up Ubuntu based VMs.  Please feel free to try it out, *but it's not going to knock your socks off or anything.*
 
 # About
 Pure-Apt is a series of shell scripts that automates the more common *apt-get* and *aptitude* tasks.
