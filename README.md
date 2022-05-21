@@ -61,10 +61,7 @@ Usage:
 ```
 
 ## Contact Me
-Port | Address
+Netowrk | Address
 --------|--------
-**Email:** | jaikehoward@icloud.com
-**Email:** | n_v83r@mhlovecraft.net
-**IRC:** | irc://mhlovecraft.net
-**Web:** | https://mhlovecraft.net
-**Web:** | http://mhlovecraft.net
+**Twitter:** | @jaikejennison
+**IRC:** | @n_v83r
